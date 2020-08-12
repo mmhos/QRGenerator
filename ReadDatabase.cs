@@ -12,4 +12,4 @@ namespace ConsoleApp1
     {
     }
     }
-}[A[A[B[B
+}
